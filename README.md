@@ -1,49 +1,75 @@
-# Hi there, I'm <Dein Name / Handle> 👋
+<div align="center">
 
-Fullstack Developer mit Leidenschaft für performante Webanwendungen, APIs und System-Entwicklung (u. a. Game- & FiveM-Scripting).
+  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/wave.gif" width="30px"> Hey, I'm <Dein Name / Handle>
 
----
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vcenter=true&width=500&lines=Fullstack+Engineer;Modern+Web+%26+Realtime+Systems;Lua+%7C+TypeScript+%7C+React+%7C+Vue;Crafting+Scalable+Solutions" alt="Typing SVG" />
+    </a>
+  </p>
 
-### 🚀 About Me
+  <p align="center">
+    <a href="#tech-stack"><b>Stack</b></a> •
+    <a href="#focus-areas"><b>Focus</b></a> •
+    <a href="#stats"><b>Analytics</b></a> •
+    <a href="#contact"><b>Connect</b></a>
+  </p>
 
-- 🔭 Ich arbeite aktuell an Fullstack-Webprojekten und maßgeschneiderten Systemlösungen.
-- 🌱 Fokus: Moderne Frontend-Architekturen & skalierbare Backends.
-- 💬 Frag mich nach: Fullstack-Entwicklung, Lua, TypeScript oder UI/UX.
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-#### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_NAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_NAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+- 🌐 **Modern Web Applications:** Performante Frontend-Architekturen mit **React**, **Vue** und modernem Styling (**SCSS / Tailwind**).
+- ⚙️ **Backend & APIs:** Robuste Microservices und APIs mit **TypeScript**, **Python** und performanten Datenbanksystemen (**SQL / MongoDB**).
+- 🎮 **Game & Realtime Systems:** High-Performance Server-Scripts, Network-Sync und Event-Architekturen in **Lua** und Native Game APIs.
+- 🛠️ **DevOps & Architecture:** Version Control via **Git**, saubere Code-Struktur, Modularität und Performance-Optimierung.
 
 ---
 
-### 📬 Connect With Me
+### 🛠️ Tech Stack & Tooling
 
-- **Discord:** [Dein Handle / Server Link]
-- **Portfolio / Website:** [Optionaler Link]
+<div align="center">
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,vue,html,css,sass" height="40" alt="Frontend" /> |
+| **Backend & Core** | <img src="https://skillicons.dev/icons?i=lua,python,nodejs" height="40" alt="Backend" /> |
+| **Database & Tools** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" height="40" alt="Tools" /> |
+
+</div>
+
+---
+
+### 📈 Activity & Insights
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_NAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_NAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_GITHUB_NAME&theme=github_dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="Streak Stats" />
+
+</div>
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-DeinHandle-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:deine-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-1f2328?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://deine-website.de">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+
+</div>
+
