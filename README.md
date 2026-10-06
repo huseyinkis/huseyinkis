@@ -1,6 +1,6 @@
 <div align="center">
 
-  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/wave.gif" width="30px"> Hey, I'm <Dein Name / Handle>
+  # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/wave.gif" width="30px"> Hey, I'm < Hüseyin >
 
   <p align="center">
     <a href="https://git.io/typing-svg">
