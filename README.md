@@ -12,7 +12,7 @@
   <p align="center">
     <a href="#about"><img src="https://img.shields.io/badge/OVERVIEW-PROFILE-00F0FF?style=for-the-badge&logoColor=000&color=00F0FF" height="24"/></a>
     <a href="#arsenal"><img src="https://img.shields.io/badge/ARSENAL-STACK-7928CA?style=for-the-badge&logoColor=fff&color=7928CA" height="24"/></a>
-    <a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-METRICS-FF007A?style=for-the-badge&logoColor=fff&color=FF007A" height="24"/></a>
+    <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-NETWORK-FF007A?style=for-the-badge&logoColor=fff&color=FF007A" height="24"/></a>
   </p>
 
 </div>
@@ -53,36 +53,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_color_list=7928CA,FF007A&height=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=7928CA,00F0FF,FF007A&height=90&section=footer"/>
 
-<div id="telemetry"></div>
-
-### 📊 Telemetry & Live Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyinkis&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinkis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090a10&title_color=00F0FF&icon_color=FF007A&text_color=a9b1d6" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinkis&theme=tokyonight&hide_border=true&background=090a10&ring=00F0FF&fire=FF007A&currStreakLabel=00F0FF" width="48%" alt="Streak Stats" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinkis&layout=compact&theme=tokyonight&hide_border=true&bg_color=090a10&title_color=00F0FF&text_color=a9b1d6" width="60%" alt="Top Languages" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&custom_color_list=FF007A,00F0FF&height=30"/>
-
-### 🐍 Contribution Stream
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/huseyinkis/huseyinkis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=FF007A,7928CA,00F0FF&height=90&section=footer"/>
+<div id="connect"></div>
 
 <div align="center">
 
