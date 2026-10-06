@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- DYNAMIC TERMINAL HEADER -->
@@ -9,11 +10,10 @@
     <code>[ SYSTEM STATUS: ONLINE ]</code> • <code>[ ARCHITECTURE: FULLSTACK ]</code> • <code>[ LATENCY: OPTIMAL ]</code>
   </p>
 
-  <!-- QUICK BADGE NAVIGATION -->
   <p align="center">
-    <a href="#-system-specs"><img src="https://img.shields.io/badge/SPEC-SYSTEM-00F0FF?style=for-the-badge&logoColor=000&color=00F0FF" height="24"/></a>
-    <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/ARSENAL-TECH-7928CA?style=for-the-badge&logoColor=fff&color=7928CA" height="24"/></a>
-    <a href="#-telemetry"><img src="https://img.shields.io/badge/DATA-TELEMETRY-FF007A?style=for-the-badge&logoColor=fff&color=FF007A" height="24"/></a>
+    <a href="#system-specs"><img src="https://img.shields.io/badge/SPEC-SYSTEM-00F0FF?style=for-the-badge&logoColor=000&color=00F0FF" height="24"/></a>
+    <a href="#tech-arsenal"><img src="https://img.shields.io/badge/ARSENAL-TECH-7928CA?style=for-the-badge&logoColor=fff&color=7928CA" height="24"/></a>
+    <a href="#telemetry"><img src="https://img.shields.io/badge/DATA-TELEMETRY-FF007A?style=for-the-badge&logoColor=fff&color=FF007A" height="24"/></a>
   </p>
 
 </div>
@@ -22,5 +22,12 @@
 
 ### ⚡ System Specs
 
-```bash
-root@system:~# neofetch --dev-mode
+```yaml
+Developer: huseyinkis
+Role: Fullstack Developer & Systems Scripter
+Fokus: Performance, Realtime-Architektur & Moderne UIs
+Frontend: React, Vue, TypeScript, JavaScript, HTML5, CSS3, SCSS
+Backend & Scripting: Lua, Python, Node.js, REST APIs
+Datenbanken: MongoDB, MySQL
+Tools & Workflow: Git, GitHub, VS Code, Linux
+Status: Bereit für anspruchsvolle Fullstack- & Skripting-Projekte
